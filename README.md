@@ -1,16 +1,15 @@
-### Hi there 👋
+Meu nome é jheik robosn
 
-<!--
-**06jheik/06jheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo :mailbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jheik.rocio@escola.pr.gov.br
+
+@jheikrobsn
+
+![neymar](https://github.com/06jheik/06jheik/assets/146442363/ba0886d1-ca63-4500-8d86-b0ea28208f96)
+
+
